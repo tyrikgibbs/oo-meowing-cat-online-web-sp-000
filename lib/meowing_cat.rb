@@ -1,8 +1,12 @@
 ## code your solution here.
 class Cats
   def initialize(name)
+    @name = name
+ end
 
-  end
+ def name
+   @name
+ end
 
 
 attr_accessor :name
