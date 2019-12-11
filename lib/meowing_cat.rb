@@ -1,8 +1,11 @@
 ## code your solution here.
 class Cats
   def initialize(name)
-    attr_accessor :name
+    
   end
+
+
+attr_accessor :name
 
   def meow
     puts "meow!"
