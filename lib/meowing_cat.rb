@@ -1,11 +1,11 @@
 ## code your solution here.
 class Cat
   def initialize(name)
-    @name = name
+    @this_cats_name = cats_name
  end
 
  def name
-   @name
+   @this_cats_name
  end
 
 
