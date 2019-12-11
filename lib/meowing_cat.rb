@@ -1,7 +1,7 @@
 ## code your solution here.
 class Cats
   def initialize(name)
-    
+
   end
 
 
