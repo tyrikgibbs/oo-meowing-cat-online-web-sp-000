@@ -1,5 +1,5 @@
 ## code your solution here.
-class Cats
+class Cat
   def initialize(name)
     @name = name
  end
